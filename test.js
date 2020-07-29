@@ -1,7 +1,6 @@
 var x;
 
 var y;
-
 y = 1;
 
 var z = 1;
